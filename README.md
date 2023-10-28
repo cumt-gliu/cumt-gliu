@@ -4,10 +4,7 @@
   
 
 ### <div align="center">I'm Giannis and I've been working on Java backend development since 2018 👨 💻 🚀</div>  
-  
-
-- 🔭 I’m currently working on NIO  
-  
+    
 
 - 🌱 I’m currently learning English  
   
